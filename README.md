@@ -29,6 +29,8 @@ If you aren't logged in as root already, you'll get prompted for entering the ro
 
 ## Website
 
+![image](https://github.com/Simoso68/i-need-coffee/assets/87707341/7f69b15b-5dcd-451b-ad3c-1b5d32257cc7)
+
 ### The website's philosophy
 
 1. On most screens 100% of the page should be visible without scrolling
