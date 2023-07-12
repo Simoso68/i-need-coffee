@@ -14,3 +14,7 @@ curl https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/install.sh | 
 ```
 
 If you aren't logged in as root already, you'll get prompted for entering the root password.
+
+## Enjoy!
+
+![image](https://github.com/Simoso68/i-need-coffee/assets/87707341/a4b7e8c4-7164-4bb9-905b-bbfd0851665a)
