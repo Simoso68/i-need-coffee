@@ -10,7 +10,7 @@ The image has been modified by me and I added the color to the ASCII image, beca
 ## Installation
 
 ```
-curl https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/install.sh | sudo bash
+curl -sS https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/install.sh | sudo bash
 ```
 
 If you aren't logged in as root already, you'll get prompted for entering the root password.
@@ -22,7 +22,7 @@ If you aren't logged in as root already, you'll get prompted for entering the ro
 ## Uninstall
 
 ```
-curl https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/uninstall.sh | sudo bash
+curl -sS https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/uninstall.sh | sudo bash
 ```
 
 If you aren't logged in as root already, you'll get prompted for entering the root password.
