@@ -2,25 +2,28 @@
 
 brown='\033[38;5;130m'
 white='\033[0m'
-gray='\033[38;5;250m'
 
-echo -e "                               codddddddddddolc"
-echo -e "                         lodk0KXXNNNNNNNWWWWWWWWX0koc"
-echo -e "                       oO0OO${brown}Okxddooolooddddxk0KN${white}WWWWWKkl"
-echo -e "                      kKOxl${brown};''';::cccllllolllc::;ok${white}XWWWWd"
-echo -e "                      NKx${brown},:.':cloodxxkdodlcc::l;....${white}xKWK"
-echo -e "                      XWOdcl${brown}::;;;;;:;;:lcllodxxxxxd${white}llOXKocclxkkdc"
-echo -e "                      NWWWXOkdooodddddoooddddddddkO0K00KdoolccoOKo"
-echo -e "                      XWWWWWWWWNXK00OOOOOO0000KKK0OOO0KXo       XKc"
-echo -e "                   ${gray}cdON${white}WWWWWWWWWWWWWWWWNNNNXXXK00OOOO0KXx      xNO"
-echo -e "                 ${gray}o0NNNN${white}WWWWWWWWWWWWWWWWWNNNXXKK00OOO00KKK0kxxkKNO"
-echo -e "               ${gray}c0NNNNNNN${white}WWWWWWWWWWWWWWWNNNNXXKK000O00KKKKXX${gray}NNNNl"
-echo -e "              ${gray}dXNNNNNNNN${white}WWWWWWWWWWWWWWWNNNXXXK000000KKKKKKX${gray}NNNXo"
-echo -e "             ${gray}dWWWNNNNNNNN${white}WWWWWWWWWWWWWNNNXXXKKK000KKK0KKXXXX${gray}NNWNO"
-echo -e "             ${gray}xWWWWWNNNNNNN${white}WWWWWWWWWWWNNNNXXXKKKKKKXXXXXXXX${gray}NNNWWWX"
-echo -e "              ${gray}OWWWWWWWWWWWW${white}WWWWWWWWWNNNNNXXXKKKKKXXXXX${gray}NNNNWWWWWWd"
-echo -e "               ${gray}0WNNWWWWWWWWW${white}WWWWWWWNNNNNXXXXXXK0KKXXX${gray}NWWWWWWWNNd"
-echo -e "               ${gray}lKWWNNWWWWWWNN${white}WWWWWWNNNNNNXXKKKKXXXXX${gray}NNWWWWNNWNo"
-echo -e "                 ${gray}xKWNNNNWWNNNNNNWWWWWNNNNNNNNNNNNNNNNNNNNNNXkc"
-echo -e "                   ${gray}okKXNNNNNNNNNNNNNNNNNNNNNNNXXXXNNNXKOxoc"
-echo -e "                       ${gray}cldkOOKXXXXXXXXXXKKKKKKKK0kdlc"
+if [ "$1" = "--version" ]; then
+    echo "Version 1.1.0"
+elif [ "$1" = "-v" ]; then
+    echo "Version 1.1.0"
+fi
+
+echo -e "                codddddddddddolc"
+echo -e "          lodk0KXXNNNNNNNWWWWWWWWX0koc"
+echo -e "        oO0OO${brown}Okxddooolooddddxk0KN${white}WWWWWKkl"
+echo -e "       kKOxl${brown};''';::cccllllolllc::;ok${white}XWWWWd"
+echo -e "       NKx${brown},:.':cloodxxkdodlcc::l;....${white}xKWK"
+echo -e "       XWOdcl${brown}::;;;;;:;;:lcllodxxxxxd${white}llOXKocclxkkdc"
+echo -e "       NWWWXOkdooodddddoooddddddddkO0K00KdoolccoOKo"
+echo -e "       XWWWWWWWWNXK00OOOOOO0000KKK0OOO0KXo     \#XKc"
+echo -e "        WWWWWWWWWWWWWWWWNNNNXXXK00OOOO0KXx      xNO"
+echo -e "        WWWWWWWWWWWWWWWWWNNNXXKK00OOO00KKK0kxxkKNO"
+echo -e "         WWWWWWWWWWWWWWWNNNNXXKK000O00KKKKXXkkco/"
+echo -e "         WWWWWWWWWWWWWWWNNNXXXK000000KKKKK"
+echo -e "          WWWWWWWWWWWWWNNNXXXKKK000KKK0KK"
+echo -e "           WWWWWWWWWWWNNNNXXXKKKKKKXXXXX"
+echo -e "            WWWWWWWWWNNNNNXXXKKKKKXXXXX"
+echo -e "             WWWWWWWNNNNNXXXXXXK0KKXXX"
+echo -e "              WWWWWWNNNNNNXXKKKKXXXXX"
+echo -e "               NNWWWWWNNNNNNNNNNNNNN"

@@ -17,7 +17,7 @@ If you aren't logged in as root already, you'll get prompted for entering the ro
 
 ## Enjoy!
 
-![image](https://github.com/Simoso68/i-need-coffee/assets/87707341/a4b7e8c4-7164-4bb9-905b-bbfd0851665a)
+![image](https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/docs/coffee.png)
 
 ## Uninstall
 
@@ -29,7 +29,7 @@ If you aren't logged in as root already, you'll get prompted for entering the ro
 
 ## Website
 
-![image](https://github.com/Simoso68/i-need-coffee/assets/87707341/7f69b15b-5dcd-451b-ad3c-1b5d32257cc7)
+![image](https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/images/coffee_page.png)
 
 ### The website's philosophy
 
