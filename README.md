@@ -17,7 +17,7 @@ If you aren't logged in as root already, you'll get prompted for entering the ro
 
 ## Enjoy!
 
-![image](https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/docs/coffee.png)
+![image](https://raw.githubusercontent.com/Simoso68/i-need-coffee/main/images/coffee_command.png)
 
 ## Uninstall
 
